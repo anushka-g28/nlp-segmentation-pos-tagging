@@ -39,8 +39,6 @@ Accuracy values recorded in the notebook's saved outputs:
 | Spanish morphology-aware tagging | HMM | 89.11% |
 | Spanish morphology-aware tagging | Baseline | 85.38% |
 
-> Re-run the notebook to confirm these numbers before citing them as final results. Rows are best compared within a task, since each task uses its own setup.
-
 ## Evaluation & Error Analysis
 
 - **Accuracy** for model-vs-baseline comparison.
